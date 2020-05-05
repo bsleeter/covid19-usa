@@ -1,0 +1,12 @@
+name: Covid19_USA
+title: Covid19_USA
+username:
+account: sleeter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2243017
+bundleId: 3104424
+url: https://sleeter.shinyapps.io/Covid19_USA/
+when: 1588651829.55762
+asMultiple: FALSE
+asStatic: FALSE

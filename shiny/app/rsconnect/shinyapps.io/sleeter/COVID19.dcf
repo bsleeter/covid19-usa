@@ -1,0 +1,12 @@
+name: COVID19
+title: COVID19
+username:
+account: sleeter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2243032
+bundleId: 3104547
+url: https://sleeter.shinyapps.io/COVID19/
+when: 1588655580.41973
+asMultiple: FALSE
+asStatic: FALSE
